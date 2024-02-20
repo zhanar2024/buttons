@@ -1,0 +1,11 @@
+p {
+  color: red;
+  background-color: antiquewhite;
+  border: 3px solid saddlebrown;
+  padding: 10px;
+  text-align: center;
+}
+p::first-line {
+  color: blue;
+  font-weight: bold;
+}
